@@ -20,11 +20,17 @@ def crea_estudiantes(count_estudiantes):
 
 
 def ordena_edades(list_students):
-	print ("metodo vacio")
-
+	for count in list_students:
+		comp = 1
+	if comp > student_age:
+		student_age = comp
+		list_students[count] = student_age
+		print list_students:
+	else:
+		print list_students:
+	
 def separa_generos(list_students):
 	
-
     if student_gender == ("masculino"):
             list_students[count]= name:
                 print list_students[]:
